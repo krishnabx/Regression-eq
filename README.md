@@ -1,2 +1,1 @@
-Regression
-On airfoil self noise data
+Regression on airfoil self noise data
